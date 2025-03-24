@@ -1,5 +1,5 @@
 {
-      "name": "mcp-weather-server",
+      "name": "@getflowdevs/mcp-weather-server",
       "version": "1.0.0",
       "type": "module",
       "scripts": {
